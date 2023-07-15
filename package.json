@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@sap/cds-dk": "^7.0.2"
+  }
+}
