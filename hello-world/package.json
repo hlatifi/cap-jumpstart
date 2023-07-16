@@ -1,5 +1,5 @@
 {
-  "name": "bookshop",
+  "name": "hello-world",
   "version": "1.0.0",
   "description": "A simple CAP project.",
   "repository": "<Add your repository here>",
@@ -10,8 +10,7 @@
     "express": "^4"
   },
   "devDependencies": {
-    "@cap-js/sqlite": "^1",
-    "sqlite3": "^5.1.6"
+    "@cap-js/sqlite": "^1"
   },
   "scripts": {
     "start": "cds-serve"
